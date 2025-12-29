@@ -4,10 +4,12 @@ Uma API desenvolvida com Django e Django REST Framework para controle de receita
 A ideia do projeto eh estudar novos conceitos correlacionados a python
 
 ## 🚀 Tecnologias
-<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/python.svg" width="56" alt="Python" />
-<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/django.svg" width="56" alt="Django" />
-<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/djangorestframework.svg" width="56" alt="DjangoRestFramework" />
-<img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/postgresql.svg" width="56" alt="PostgreSQL" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/python.svg" width="56" alt="Python" />
+  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/django.svg" width="56" alt="Django" />
+  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/djangorestframework.svg" width="56" alt="DjangoRestFramework" />
+  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/postgresql.svg" width="56" alt="PostgreSQL" />
+</p>
 
 ## 🎯 Sobre o Projeto
 
